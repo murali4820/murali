@@ -1,0 +1,96 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Indie+Flower&family=Rubik&display=swap');
+
+body{
+     background-color: rgb(174, 174, 174);
+     background-image: url('https://media.istockphoto.com/id/527798197/photo/man-painter.jpg?s=612x612&w=0&k=20&c=59-fK6IYYIKl4hT32qhH32yf37bqyP05_n_ESL8mw-s=');
+     background-size: cover;
+     background-repeat: no-repeat;
+
+}
+header{
+     color: white;
+     position: relative;
+     left: 100px;
+     top:10px;
+     font-size: xx-large;
+}
+li{
+   display: inline ;
+   padding: 30px;
+   position: relative;
+   left: 70px;
+   position: relative;
+   top: 5px;
+   left: -50px;
+   
+}
+.div1{
+     background-color: white;
+     height: 30px;
+     width: 1000px;
+     position: relative;
+     top: 30px;
+     left: 150px;
+     border-radius: 30px;
+}
+img{
+     height: 300px;
+     width: 300px;
+     
+}
+.p1{
+     font-family:'Dancing Script', cursive;
+     font-size: x-large;
+     position: relative;
+     top: 20px;
+     left: 0px;
+     color: red;
+
+     
+
+}
+.div2{
+     position: relative;
+     top: 160px;
+     left: 160px;
+     color: white;
+}
+.p3{
+     font-size: xx-large;
+}
+button{
+     background-color: red;
+     color: white;
+     border-top-left-radius: 10px;
+     border-bottom-right-radius: 10px;
+     height: 30px;
+}
+.li{
+     color: red;
+}
+.p4{
+     position: relative;
+     bottom: 500px;
+     left: 600px;
+}
+.p5{
+     position: relative;
+     bottom: 550px;
+     left: 850px;
+}
+.icon1{
+     position: relative;
+     top: 5px;
+     left: 80px;
+}
+.icon2{
+     position: relative;
+     top: 5px;
+     left: 140px;
+}
+.icon3{
+     position: relative;
+     top: 5px;
+left: 190px;
+}
